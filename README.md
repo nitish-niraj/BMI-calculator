@@ -1,14 +1,11 @@
 # BMI Calculator Android App
 
-![BMI Calculator](bmi_calculator.png)
-
 The BMI (Body Mass Index) Calculator Android App is a handy tool that allows users to calculate their BMI based on their weight and height input. This application provides a quick and easy way to assess whether an individual is underweight, normal weight, or overweight. The app uses a color-coded screen to visually indicate the BMI category.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
@@ -26,9 +23,6 @@ The Body Mass Index (BMI) is a measure of body fat based on a person's weight an
 - User-friendly and intuitive interface.
 - Real-time feedback on BMI status.
 
-## Demo
-
-![BMI Calculator Demo](demo.gif)
 
 ## Installation
 
@@ -56,8 +50,8 @@ Please note that BMI is just one indicator of health, and it may not be suitable
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+![Screenshot 1](https://github.com/nitish-niraj/BMI-calculator/blob/main/Screenshots.jpg)
+
 
 ## Contributing
 
